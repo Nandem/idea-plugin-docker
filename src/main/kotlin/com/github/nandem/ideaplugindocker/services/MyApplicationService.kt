@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.nandem.ideaplugindocker.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.nandem.ideaplugindocker.MyBundle
 
 class MyApplicationService {
 
